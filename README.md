@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serdar Raşit Fırlayiş</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate Software Engineer specifically focused on Backend Development</h3>
 
 - 🌱 I’m currently learning **Spring Framework, Backend Development, System Design**
 
